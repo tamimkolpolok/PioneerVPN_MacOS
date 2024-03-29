@@ -3,12 +3,12 @@
     <channel>
         <title>PioneerVPN</title>
         <item>
-            <title>1.7</title>
-            <pubDate>Wed, 27 Mar 2024 14:25:02 +0600</pubDate>
-            <sparkle:version>1.7</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <title>1.8</title>
+            <pubDate>Fri, 29 Mar 2024 14:58:09 +0600</pubDate>
+            <sparkle:version>1.8</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tamimkolpolok/PioneerVPN_MacOS/releases/download/prod/PioneerVPN.dmg" length="22460671" type="application/octet-stream" sparkle:edSignature="Ya1NIr5jMoZb4/nbbZWEtHs26VgoaHqwc2oK4Qxz1WWdMTve+PSRwcueyt7pJZjSVJjPcZ/0FTKz6hzKWb0lAg=="/>
+            <enclosure url="https://github.com/tamimkolpolok/PioneerVPN_MacOS/releases/download/prod/PioneerVPN.dmg" length="22462576" type="application/octet-stream" sparkle:edSignature="/0UoC1nHInTIe2xpLYoLUVEdDtKFEYHp3/Kmfgo5AF3CineGCZeh9+ER0W491QhJ0P5NZUcMMkZA6/J98fdcCQ=="/>
         </item>
     </channel>
 </rss>
